@@ -1,0 +1,30 @@
+
+.App-link {
+  color: #61dafb;
+}
+
+.menu {
+  display: block;
+  width: 20rem;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.menu span {
+  display: block;
+  cursor: pointer;
+  text-decoration: underline;
+  font-size: 1.6rem;
+  padding: 1rem;
+  text-align: left;
+}
+
+.pages {
+  margin-left: 20rem;
+}
+
+.video {
+  margin: 1rem auto;
+  display: block;
+}
